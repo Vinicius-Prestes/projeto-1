@@ -1,0 +1,50 @@
+[
+    {
+      "nome": "Tênis Esportivo",
+      "preco": "R$ 199,99",
+      "descricao": "Tênis confortável e durável para corrida.",
+      "imagem": "tenis.jpg"
+    },
+    {
+      "nome": "Camiseta Dry Fit",
+      "preco": "R$ 49,99",
+      "descricao": "Camiseta leve e respirável para atividades físicas.",
+      "imagem": "camiseta.jpg"
+    },
+    {
+      "nome": "Shorts de Corrida",
+      "preco": "R$ 69,99",
+      "descricao": "Shorts ideal para corrida e treinos.",
+      "imagem": "shorts.jpg"
+    },
+    {
+      "nome": "Garrafa Esportiva",
+      "preco": "R$ 29,99",
+      "descricao": "Garrafa de água com capacidade de 750ml.",
+      "imagem": "garrafa.jpg"
+    },
+    {
+      "nome": "Bola de Futebol",
+      "preco": "R$ 79,99",
+      "descricao": "Bola de futebol profissional.",
+      "imagem": "bola.jpg"
+    },
+    {
+      "nome": "Luvas de Goleiro",
+      "preco": "R$ 89,99",
+      "descricao": "Luvas com excelente aderência e proteção.",
+      "imagem": "luvas.jpg"
+    },
+    {
+      "nome": "Meias de Compressão",
+      "preco": "R$ 29,99",
+      "descricao": "Meias que melhoram a circulação durante o treino.",
+      "imagem": "meias.jpg"
+    },
+    {
+      "nome": "Boné Esportivo",
+      "preco": "R$ 39,99",
+      "descricao": "Boné leve com proteção UV.",
+      "imagem": "bone.jpg"
+    }
+  ]
