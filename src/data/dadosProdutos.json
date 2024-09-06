@@ -3,17 +3,17 @@
       "nome": "Tênis Esportivo",
       "preco": "R$ 199,99",
       "descricao": "Tênis confortável e durável para corrida.",
-      "imagem": "tenis.jpg"
+      "imagem": "tenis-esportivo.jpeg"
     },
     {
       "nome": "Camiseta Dry Fit",
       "preco": "R$ 49,99",
       "descricao": "Camiseta leve e respirável para atividades físicas.",
-      "imagem": "camiseta.jpg"
+      "imagem": "camiseta-dryfit.jpeg"
     },
     {
       "nome": "Shorts de Corrida",
-      "preco": "R$ 69,99",
+      "preco": "R$ 69,09",
       "descricao": "Shorts ideal para corrida e treinos.",
       "imagem": "shorts.jpg"
     },
