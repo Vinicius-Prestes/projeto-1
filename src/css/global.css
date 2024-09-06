@@ -1,0 +1,13 @@
+:root {
+    --bg-color: #004d00;
+    --bg-color1: #66ff66;
+    --text-color: white;
+    --bg-color2: #98FB98;
+  }
+
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
