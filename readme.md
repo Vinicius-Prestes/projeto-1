@@ -1,9 +1,9 @@
-Integrantes:
-- Vinicius Prestes
-- Renato Babichak
-- Luiz Guilherme
-- Breno Augusto
-- Enzo Motta
+# Integrantes:
+- Vinicius Prestes - RM559097
+- Renato Babichak - Rm556942
+- Luiz Guilherme - RM558932
+- Breno Augusto - RM559063
+- Enzo Motta -Rm555372
 
 
 # 🛒 Projeto de Site de Venda de Produtos
