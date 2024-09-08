@@ -1,3 +1,10 @@
+Integrantes:
+- Vinicius Prestes
+- Renato Babichak
+- Luiz Guilherme
+- Breno Augusto
+- Enzo Motta
+
 
 # 🛒 Projeto de Site de Venda de Produtos
 
